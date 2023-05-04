@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an early-stage researcher (pursuing PhD) deeply devoted and highly passionate about science. I strive for excellence and contribution to knowledge. I am a curious 
+I am an final yaer researcher (pursuing PhD) deeply devoted and highly passionate about science. I strive for excellence and contribution to knowledge. I am a curious 
 person, hungry for knowledge, as my never-ending education demonstrates. Since I  started my undergraduate studies, my interests have always turned around <strong>Artificial Intelligence</strong> and <strong>innovative applications</strong> especially applied to formal reasoning and the World Wide Web.  I am a part-time lecturer and demonstrator, covering both bachelors and masters courses in Computer Science and I am an active member of a team of post-graduated talented individuals working in Music Tech with Artificial Intelligence. 
 
 I have 5 peer-reviewed publications including a journal in Nature. I had been working with signal processing, machine and deep learning techniques, especially with time-series data. Experienced working with hardware and sensors with Arduino and Raspberry Pi. I had been working on pose estimation and finding rhythm from video data. I have created several interfaces for creative music-making.
@@ -25,18 +25,14 @@ I have 5 peer-reviewed publications including a journal in Nature. I had been wo
 
  ![Visitor Count](https://profile-counter.glitch.me/{SutirthaChakraborty}/count.svg)
 
-<!--
-**senemaktas/senemaktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula   
-
+ 
 
 ![Sutirtha's github stats](https://github-readme-stats.vercel.app/api?username=SutirthaChakraborty&show_icons=true&theme=prussian&hide=contribs,prs&count_private=true&text_color=ffffff&title_color=fe0278)  
 
-[![reponame](https://github-readme-stats.vercel.app/api/pin/?username=SutirthaChakraborty&repo=reponame&show_owner=true)](https://github.com/link/repo) -->
-
-<!-- 
+[![reponame](https://github-readme-stats.vercel.app/api/pin/?username=SutirthaChakraborty&repo=reponame&show_owner=true)](https://github.com/link/repo)  
+ 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://--.medium.com)
 [![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sutirtha38/)
-[![Mail Badge](https://img.shields.io/badge/---@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sutirtha38@gmail.com)](mailto:sutirtha38@gmail.com) -->
+[![Mail Badge](https://img.shields.io/badge/---@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sutirtha38@gmail.com)](mailto:sutirtha38@gmail.com) 
