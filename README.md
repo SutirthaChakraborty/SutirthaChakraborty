@@ -31,8 +31,9 @@ I have 5 peer-reviewed publications including a journal in Nature. I had been wo
 
 [![reponame](https://github-readme-stats.vercel.app/api/pin/?username=SutirthaChakraborty&repo=reponame&show_owner=true)](https://github.com/link/repo)  
  
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://--.medium.com)
-[![](https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://twitter.com/sutirthac))
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)]([https://--.medium.com](https://medium.com/@sutirtha38))
+[![](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sutirtha/playlists)
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sutirtha38/)
 [![Mail Badge](https://img.shields.io/badge/---@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sutirtha38@gmail.com)](mailto:sutirtha38@gmail.com) 
