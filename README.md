@@ -27,9 +27,8 @@ I have 5 peer-reviewed publications including a journal in Nature. I had been wo
 
  
 
-![Sutirtha's github stats](https://github-readme-stats.vercel.app/api?username=SutirthaChakraborty&show_icons=true&theme=prussian&hide=contribs,prs&count_private=true&text_color=ffffff&title_color=fe0278)  
+[![reponame](https://github-readme-stats.vercel.app/api/pin/?username=SutirthaChakraborty&repo=reponame&show_owner=true)](https://github.com/SutirthaChakraborty)
 
-[![reponame](https://github-readme-stats.vercel.app/api/pin/?username=SutirthaChakraborty&repo=reponame&show_owner=true)]([Sutirtha Chakraborty](https://github.com/SutirthaChakraborty))  
  
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/](https://twitter.com/sutirthac))
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)]([https://--.medium.com](https://medium.com/@sutirtha38))
