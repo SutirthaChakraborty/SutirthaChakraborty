@@ -31,4 +31,4 @@ I have several peer-reviewed publications including a journal in Nature. I had b
 [![](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Sutirtha/playlists)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sutirtha38/)
-[![Mail Badge](https://img.shields.io/badge/---@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sutirtha38@gmail.com)](mailto:sutirtha38@gmail.com) 
+[![Mail Badge](https://img.shields.io/badge/GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sutirtha38@gmail.com)](mailto:sutirtha38@gmail.com) 
